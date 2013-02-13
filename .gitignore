@@ -9,3 +9,4 @@ lib-cov
 *.gz
 *.iml
 node_modules
+.idea
